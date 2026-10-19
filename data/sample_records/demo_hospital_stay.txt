@@ -1,0 +1,59 @@
+# MedThread AI - Sample Hospital Record
+
+**IMPORTANT:** Entirely synthetic educational data. No real patient information.
+
+## Document 1: Admission Note
+
+Document ID: ADMISSION-001
+
+Patient Identifier: 000001
+
+Admission Date: October 10, 2026
+
+Reason for Admission:
+The patient presented to the emergency department with fever, cough, and shortness of breath for three days.
+
+Initial Findings:
+Temperature was 38.5°C and oxygen saturation was 91% on room air.
+
+Initial Assessment:
+The admitting team documented suspected community-acquired pneumonia.
+
+## Document 2: Progress Note
+
+Document ID: PROGRESS-002
+
+Date: October 11, 2026
+
+Hospital Course:
+The patient received supplemental oxygen and antibiotic treatment. Fever improved over the following two days. Oxygen requirements gradually decreased.
+
+## Document 3: Discharge Note
+
+Document ID: DISCHARGE-003
+
+Date: October 13, 2026
+
+Discharge Diagnosis:
+Community-acquired pneumonia.
+
+Condition at Discharge:
+The patient was documented as clinically improved and maintaining an oxygen saturation of 96% on room air.
+
+Follow-Up:
+Follow up with the primary care provider within seven days.
+
+Pending Tests:
+No pending tests were mentioned in this document.
+
+## Document 4: Medication Record
+
+Document ID: MEDICATIONS-004
+
+During Hospitalization:
+The medication administration record documents that antibiotic treatment was administered during the hospital stay.
+
+Discharge Medication Instructions:
+No explicit instruction was found in the provided records stating whether the antibiotic should be continued, stopped, or changed after discharge.
+
+## End of Fictional Record

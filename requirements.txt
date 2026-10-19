@@ -1,0 +1,9 @@
+
+langchain
+langchain-openai
+pydantic
+streamlit
+python-dotenv
+pymupdf
+pytest
+openpyxl
