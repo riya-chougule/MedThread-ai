@@ -441,27 +441,6 @@ The longer-term goal is to explore a more reliable and explainable approach to A
 
 ---
 
-## Research and Motivation
-
-The project is motivated by research on discharge communication, medication safety, and AI-assisted clinical documentation.
-
-**Stanford Medicine (2026)**  
-Research exploring AI-assisted hospital discharge summary generation and the importance of clinician oversight.
-
-https://med.stanford.edu/news/all-news/2026/06/ai-discharge-summary.html
-
-**World Health Organization — Medication Safety in Transitions of Care (2019)**  
-Guidance on medication-related risks during transitions between healthcare settings.
-
-https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9
-
-**Agency for Healthcare Research and Quality (AHRQ)**  
-Research and resources on patient safety, diagnostic safety, and healthcare transitions.
-
-https://www.ahrq.gov/
-
----
-
 ## Disclaimer
 
 **MedThread AI is an educational and research demonstration prototype.**
