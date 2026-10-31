@@ -12,6 +12,12 @@ Rather than simply summarizing medical records, MedThread AI focuses on **clinic
 
 <img width="1440" height="772" alt="Screenshot 2026-10-19 at 3 45 00 PM" src="https://github.com/user-attachments/assets/fa329804-7609-4e59-9fb8-c9c84758f3e4" />
 
+
+<img width="1440" height="776" alt="needed" src="https://github.com/user-attachments/assets/39fc8c25-c09c-462d-aea7-39e80554d951" />
+
+
+<img width="1440" height="774" alt="Screenshot 2026-10-19 at 3 43 06 PM" src="https://github.com/user-attachments/assets/f0ba9a1f-7ee4-4e34-9515-20d067e4e06d" />
+
 ---
 
 ## The Problem
