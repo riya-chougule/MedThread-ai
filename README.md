@@ -9,6 +9,9 @@ Rather than simply summarizing medical records, MedThread AI focuses on **clinic
 
 > **Project status:** Early-stage prototype under active development. Built using synthetic healthcare data for educational and research demonstration purposes.
 
+
+<img width="1440" height="772" alt="Screenshot 2026-10-19 at 3 45 00 PM" src="https://github.com/user-attachments/assets/fa329804-7609-4e59-9fb8-c9c84758f3e4" />
+
 ---
 
 ## The Problem
